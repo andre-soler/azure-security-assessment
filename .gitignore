@@ -1,0 +1,20 @@
+# Terraform: plugins baixados e estado (o estado pode conter IDs, IPs e senhas)
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.tfstate.lock.info
+crash.log
+
+# Variáveis com valores da assinatura
+*.tfvars
+*.tfvars.json
+
+# Credenciais da identidade de leitura (Fase 4)
+.env
+
+# Saídas de varredura: ignora tudo em scans/, menos o .gitkeep
+scans/*
+!scans/.gitkeep
+
+# Pasta padrão de relatórios do Prowler
+output/
