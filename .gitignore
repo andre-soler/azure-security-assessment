@@ -8,7 +8,7 @@ crash.log
 # Variáveis com valores da assinatura
 *.tfvars
 *.tfvars.json
-
+*.tfplan
 # Credenciais da identidade de leitura (Fase 4)
 .env
 
