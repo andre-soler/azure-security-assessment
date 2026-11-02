@@ -1,0 +1,9 @@
+== A-03 | 02/11/2026 10:49 ==
+-- Quem tem o papel Owner na assinatura:
+Id_principal                          Tipo              Escopo
+------------------------------------  ----------------  ---------------------------------------------------
+6aada6f3-d490-404b-a5bc-e65637e99f28  User              /subscriptions/<assinatura>
+6aada6f3-d490-404b-a5bc-e65637e99f28  User              /subscriptions/<assinatura>
+396341e1-32ae-4c81-b8d9-cd75446c43ea  ServicePrincipal  /subscriptions/<assinatura>
+-- ID da identidade da integração:
+396341e1-32ae-4c81-b8d9-cd75446c43ea

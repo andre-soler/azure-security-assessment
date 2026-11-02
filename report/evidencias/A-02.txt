@@ -1,0 +1,7 @@
+== A-02 | 02/11/2026 10:48 ==
+-- Acesso público de rede do SQL Server:
+Enabled
+-- Regras de firewall:
+Regra                    Inicio    Fim
+-----------------------  --------  ---------------
+liberar-tudo-temporario  0.0.0.0   255.255.255.255

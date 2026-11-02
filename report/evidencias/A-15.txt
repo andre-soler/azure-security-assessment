@@ -1,0 +1,5 @@
+== A-15 | 02/11/2026 10:51 ==
+-- Login administrativo por senha:
+nuveloadmin
+-- Administradores do Entra ID configurados:
+[]

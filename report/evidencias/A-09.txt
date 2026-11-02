@@ -1,0 +1,5 @@
+== A-09 | 02/11/2026 10:53 ==
+-- Exportação do Activity Log da assinatura:
+[]
+-- Logs do Key Vault:
+[]

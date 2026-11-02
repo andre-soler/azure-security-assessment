@@ -1,0 +1,4 @@
+== Investigação UAA | 02/11/2026 11:39 ==
+Id_principal                          Tipo    Escopo
+------------------------------------  ------  --------
+d6933ec8-68b3-455e-a8fe-acaf030c2502  User    /

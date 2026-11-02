@@ -1,0 +1,6 @@
+== A-08 | 02/11/2026 10:51 ==
+{
+  "exclusao_reversivel": true,
+  "protecao_purga": null,
+  "retencao_dias": 7
+}

@@ -1,0 +1,6 @@
+== A-11 | 02/11/2026 10:52 ==
+{
+  "endpoints_privados": 0,
+  "rede_publica": "Enabled",
+  "regra_padrao": null
+}

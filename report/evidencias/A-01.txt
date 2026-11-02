@@ -1,0 +1,7 @@
+== A-01 | 02/11/2026 10:47 ==
+-- Chave geral de acesso público do storage:
+true
+-- Nível de acesso do container uploads-agencias:
+Blob
+-- Download sem autenticação (código HTTP):
+200

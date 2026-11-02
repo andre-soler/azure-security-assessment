@@ -1,0 +1,8 @@
+== A-04 | 02/11/2026 10:49 ==
+-- Regras de entrada do NSG:
+Regra         Porta    Origem    Acao
+------------  -------  --------  ------
+permitir-ssh  22       Internet  Allow
+permitir-rdp  3389     Internet  Allow
+-- NSG associado à sub-rede:
+/subscriptions/<assinatura>/resourceGroups/rg-nuvelo-prod/providers/Microsoft.Network/networkSecurityGroups/nsg-vm-legado

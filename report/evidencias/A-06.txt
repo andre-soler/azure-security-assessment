@@ -1,0 +1,4 @@
+== A-06 | 02/11/2026 10:50 ==
+Rede_publica    Regra_padrao    Chaves_compartilhadas
+--------------  --------------  -----------------------
+Enabled         Allow           True

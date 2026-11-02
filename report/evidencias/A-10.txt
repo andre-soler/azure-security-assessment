@@ -1,0 +1,7 @@
+== A-10 | 02/11/2026 10:53 ==
+Plano            Nivel
+---------------  -------
+SqlServers       Free
+StorageAccounts  Free
+KeyVaults        Free
+Arm              Free
